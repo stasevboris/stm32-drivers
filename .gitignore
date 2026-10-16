@@ -1,0 +1,6 @@
+Debug/
+Release/
+*.o
+*.elf
+*.map
+*.pdsprj.*.workspace
